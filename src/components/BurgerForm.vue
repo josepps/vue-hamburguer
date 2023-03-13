@@ -69,7 +69,7 @@ export default {
             carne: this.carne,
             pao: this.pao,
             opcionais: Array.from(this.opcionais),
-            status: "solicitado"
+            status: "Solicitado"
         }
 
         const dataJson = JSON.stringify(data)

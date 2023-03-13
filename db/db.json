@@ -87,7 +87,7 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 1
     },
     {
@@ -99,7 +99,7 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 2
     },
     {
@@ -111,7 +111,7 @@
         "Pepino",
         "Cebola roxa"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 3
     },
     {
@@ -122,7 +122,7 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 4
     }
   ]

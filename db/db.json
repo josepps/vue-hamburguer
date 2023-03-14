@@ -103,18 +103,6 @@
       "id": 2
     },
     {
-      "nome": "José",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Tomate",
-        "Pepino",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
       "nome": "Paulo",
       "carne": "Alcatra",
       "pao": "Italiano Branco",

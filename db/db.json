@@ -87,20 +87,8 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Em produção",
+      "status": "Solicitado",
       "id": 1
-    },
-    {
-      "nome": "França",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Cebola roxa",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Finalizado",
-      "id": 2
     },
     {
       "nome": "Paulo",
